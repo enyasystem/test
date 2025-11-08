@@ -1,12 +1,8 @@
 Hello
----
-# Chapter one - *hello*
----
+# Chapter one - hello
 hello
----
 hi
----
 okay
-``Hello``
-`hi`
-`hello`
+Hello
+hi
+hello
