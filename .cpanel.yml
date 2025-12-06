@@ -1,0 +1,8 @@
+---
+# cPanel deployment configuration
+# Customize the deployment commands for your application
+
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/username/public_html/
+    - /bin/cp -R * $DEPLOYPATH
